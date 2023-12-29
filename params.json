@@ -1,0 +1,10 @@
+[
+    {
+        "namespace": "/yamcs/spacestation",
+        "name":      "jvmMemoryUsed"
+    },
+    {
+        "namespace": "/yamcs/spacestation/df/dev",
+        "name":      "sdc"
+    }
+]
